@@ -1,0 +1,3 @@
+/home/cyrus/projects/compiler/dev/cacophony/build/CMakeFiles/ccp.dir
+/home/cyrus/projects/compiler/dev/cacophony/build/CMakeFiles/edit_cache.dir
+/home/cyrus/projects/compiler/dev/cacophony/build/CMakeFiles/rebuild_cache.dir

@@ -4,4 +4,4 @@ project(cacophony)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(ccp src/main.cpp)
+add_executable(noisy src/main.cpp)
